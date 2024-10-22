@@ -1,0 +1,171 @@
+#generatedform{
+    background-color:transparent;
+    }
+    
+    *{
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    body{
+        
+        background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210805/pngtree-modern-simple-elegant-cool-gradient-cream-landing-page-website-background-image_757446.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+            
+        
+    }
+    #main{
+        padding-left: 20%;
+        padding-right: 20%;
+        padding-top: 0%;
+        
+    }
+    input{
+        justify-content: space-between;
+        height: 30px;
+        border-radius: 10px;
+        width: 30%;
+        font-weight: 100; 
+        margin-left: 1%; 
+        
+    
+    }
+    fieldset{
+        padding: 20px;
+        margin: 15px;
+    }
+    ::placeholder{
+        padding: 10px;
+        color: rgba(0, 0, 0, 0.5); /* Adjust placeholder text color */
+        opacity: 2; 
+    }
+    h2{
+    
+    
+        letter-spacing: 4px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+    button{
+        align-items: right;
+        border-radius: 20px;
+        height: 40px;
+        width: 25%;
+        padding: 2px;
+        margin-top: 3%;
+        margin-left: 35%;
+        font-size: 20px;
+        margin-bottom: 5%;
+        border: 2px solid black;
+        box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.5);
+    }
+    
+    textarea{
+        font-size: 18px;
+        width: 100%;
+        min-height: 150px;
+    }
+    
+    
+    label{
+        font-size: 19px;
+    }
+    .mainheading{
+        padding-left:20% ;
+    }
+    .namediv{
+    width: 50%;
+    height: 100%;
+    }
+    .emailstyle{
+        font-size: 20px;
+    }
+    .usernamestyle{
+        margin-left: 29%;
+        margin-top: 3%;
+    }
+    .specialitystyle{
+    padding-left:35% ;
+    margin-bottom: 10%;
+    letter-spacing: 4px;
+    
+    
+    }
+    .phonestyle{
+        font-size: 20px;
+    }
+    .nationalitystyle{
+    
+        font-size: 20px;
+         padding-bottom: 1px; 
+         margin-bottom:10%;
+    }
+    .educationstyle{
+        padding: 0.5%;
+         padding-bottom: 2px; 
+    }
+    .skillsstyle{
+        font-size: 20px;
+        padding-bottom: 2px; 
+    
+    }
+    .hidden{
+        display: none;
+        min-height: 700PX;
+        width: 80%;
+        padding-left: 2%;
+        margin-left: 10%;
+    
+    }
+    #form{
+       
+        background-color:transparent ; 
+        box-shadow: 10px 10px 15px 15px rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(0, 0, 0, 0.5);
+    }
+    
+    #generatedform{
+     width: 80%;
+     height: 100%;
+    background-color:transparent ; 
+        box-shadow: 10px 10px 15px 15px rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(0, 0, 0, 0.5);
+    }
+    #educationhead  {
+      font-size: 30PX;
+      box-shadow: 5px 5px 5px 5px rgb(204, 176, 99);
+      height: 50px;
+      align-content: center;
+    }
+    #workexperiencehead{
+        font-size: 30PX;
+        box-shadow: 5px 5px 5px 5px rgb(204, 176, 99);
+        height: 50px;
+        align-content: center;
+    }
+    #skillshead{
+        font-size: 30PX;
+        box-shadow: 5px 5px 5px 5px rgb(204, 176, 99);
+        height: 50px;
+        align-content: center;
+    }
+   #Educationresult{
+     padding-top: 15px;
+     padding-bottom: 15px;
+     margin: 10px;
+    }
+    #skillsresult{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin: 10px;
+       }
+       #workexperienceresult{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin: 10px;
+       }
+    
